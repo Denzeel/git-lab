@@ -7,7 +7,7 @@ practiceee
 This is a practice assignment.
 
 <h2>Contents</h2>
-<h3>[Git pro book](https://git-scm.com/book/en/v2)}</h3>
+[Git pro book](https://git-scm.com/book/en/v2)
 
 
 <h2>References</h2>
