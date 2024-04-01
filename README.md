@@ -7,10 +7,10 @@ practiceee
 This is a practice assignment.
 
 <h2>Contents</h2>
-<h3>content1</h3>
-<h3>content2</h3>
-<h3>content3</h3>
+<h3>[Git pro book](https://git-scm.com/book/en/v2)}]</h3>
+
 
 <h2>References</h2>
-<h3>ref1</h3>
-<h3>ref2</h3>
+<h3>Github documentation: https://docs.github.com/en</h3>
+<h3>Github glossary: https://docs.github.com/en/get-started/learning-about-github/github-glossary</h3>
+<h3>Git documentation: https://git-scm.com/doc</h3>
