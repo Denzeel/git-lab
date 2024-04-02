@@ -7,12 +7,17 @@ This is a practice assignment.
 
 <h2>Contents</h2>
 
+<h3>Lists</h3>
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
 <h3>Code Examples</h3>
 
 ```python 
 print(3+5)
 ```
-
 
 <h3>Images</h3>
 
