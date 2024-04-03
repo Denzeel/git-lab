@@ -23,8 +23,6 @@ print(3+5)
 
 ![raccoonn](https://github.com/Denzeel/git-lab/assets/88594620/6605f0f9-713b-49e3-b4dd-d8a72a3129e3)
 
-![raccoon2](https://github.com/Denzeel/git-lab/assets/88594620/419e99fa-8fac-4d6e-99e7-b4c3f4b6d4a1)
-
 
 <h2>References</h2>
 
